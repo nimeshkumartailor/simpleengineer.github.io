@@ -1,0 +1,4 @@
+[submodule "thesimpleengneerblog/simpleengineer.github.io"]
+	path = thesimpleengneerblog/simpleengineer.github.io
+	url = https://github.com/nimeshkumartailor/simpleengineer.github.io.git
+	branch = main
